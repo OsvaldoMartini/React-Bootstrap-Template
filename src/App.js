@@ -20,7 +20,7 @@ function App() {
       <header className="App-header">
         <hr className="divider-line"></hr>
         
-        <div className="header-bar-box" style={{ position: "relative" }}>
+        {/* <div className="header-bar-box" style={{ position: "relative" }}> */}
     <div className="header-bar-logo">
       <div>
         <svg style={{ cursor: "pointer" }}
@@ -37,7 +37,7 @@ function App() {
             />
           </g>
         </svg>
-      </div>
+      {/* </div> */}
     </div>
     </div>
    
